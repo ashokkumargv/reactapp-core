@@ -39,6 +39,10 @@
     "eslint-plugin-react": "^7.32.2",
     "eslint-plugin-react-hooks": "^4.6.0",
     "eslint-plugin-react-refresh": "^0.4.3",
-    "vite": "^4.4.5"
-  }
+    "vite": "^4.4.9"
+  },
+  "description": "This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.",
+  "main": "aspnetcore-https.js",
+  "author": "",
+  "license": "ISC"
 }
